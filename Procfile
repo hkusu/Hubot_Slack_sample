@@ -1,1 +1,2 @@
-web: bin/hubot -a slack -n hoge
+web: bin/hubot -a slack -n hogebot
+
