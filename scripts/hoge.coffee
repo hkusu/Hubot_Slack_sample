@@ -1,4 +1,4 @@
 module.exports = (robot) ->
 
-  robot.hear /kusu/i, (msg) ->
+  robot.hear /hoge/i, (msg) ->
     msg.send "呼びました？"
