@@ -1,4 +1,4 @@
 module.exports = (robot) ->
 
-  robot.hear /hoge/i, (msg) ->
+  robot.hear /あいうえお/i, (msg) ->
     msg.send "呼びました？"
